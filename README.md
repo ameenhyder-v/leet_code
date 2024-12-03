@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ameenhyder-v/leet_code/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ameenhyder-v/leet_code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
