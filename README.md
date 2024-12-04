@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ameenhyder-v/leet_code/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ameenhyder-v/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ameenhyder-v/leet_code/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ameenhyder-v/leet_code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ameenhyder-v/leet_code/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ameenhyder-v/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ameenhyder-v/leet_code/tree/master/2421-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
