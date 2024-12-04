@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ameenhyder-v/leet_code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
+| [2630-alternating-digit-sum](https://github.com/ameenhyder-v/leet_code/tree/master/2630-alternating-digit-sum) |
 ## String
 |  |
 | ------- |
