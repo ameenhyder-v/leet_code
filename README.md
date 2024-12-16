@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ameenhyder-v/leet_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ameenhyder-v/leet_code/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ameenhyder-v/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ameenhyder-v/leet_code/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/2292-counting-words-with-a-given-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ameenhyder-v/leet_code/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
