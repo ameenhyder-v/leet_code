@@ -12,6 +12,7 @@ function prefixCount(words, pref, index = 0, count = 0) {
     // }
     // return count
 
+
     if(index === words.length) {
         return count;
     }
@@ -19,6 +20,5 @@ function prefixCount(words, pref, index = 0, count = 0) {
     if(words[index].startsWith(pref)) {
         count++;
     }
-
     return prefixCount(words, pref, index + 1, count);
 };
