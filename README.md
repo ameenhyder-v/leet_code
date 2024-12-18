@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ameenhyder-v/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ameenhyder-v/leet_code/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ameenhyder-v/leet_code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ameenhyder-v/leet_code/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ameenhyder-v/leet_code/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
