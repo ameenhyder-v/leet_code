@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ameenhyder-v/leet_code/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ameenhyder-v/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ameenhyder-v/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
@@ -67,16 +69,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ameenhyder-v/leet_code/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ameenhyder-v/leet_code/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
