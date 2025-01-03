@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0020-valid-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
