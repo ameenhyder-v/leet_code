@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ameenhyder-v/leet_code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ameenhyder-v/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ameenhyder-v/leet_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ameenhyder-v/leet_code/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ameenhyder-v/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ameenhyder-v/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ameenhyder-v/leet_code/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ameenhyder-v/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
