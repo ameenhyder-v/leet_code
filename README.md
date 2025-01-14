@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ameenhyder-v/leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ameenhyder-v/leet_code/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ameenhyder-v/leet_code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
