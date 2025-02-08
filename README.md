@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ameenhyder-v/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ameenhyder-v/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/ameenhyder-v/leet_code/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ameenhyder-v/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0383-ransom-note](https://github.com/ameenhyder-v/leet_code/tree/master/0383-ransom-note) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ameenhyder-v/leet_code/tree/master/0383-ransom-note) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ameenhyder-v/leet_code/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## String Matching
