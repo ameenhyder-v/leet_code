@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ameenhyder-v/leet_code/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ameenhyder-v/leet_code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/ameenhyder-v/leet_code/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ameenhyder-v/leet_code/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ameenhyder-v/leet_code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ameenhyder-v/leet_code/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ameenhyder-v/leet_code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
 | ------- |
@@ -165,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ameenhyder-v/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ameenhyder-v/leet_code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ameenhyder-v/leet_code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ameenhyder-v/leet_code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
