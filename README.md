@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/ameenhyder-v/leet_code/tree/master/0268-missing-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ameenhyder-v/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/ameenhyder-v/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2630-alternating-digit-sum](https://github.com/ameenhyder-v/leet_code/tree/master/2630-alternating-digit-sum) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/ameenhyder-v/leet_code/tree/master/0383-ransom-note) |
+| [2032-largest-odd-number-in-string](https://github.com/ameenhyder-v/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ameenhyder-v/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ameenhyder-v/leet_code/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
