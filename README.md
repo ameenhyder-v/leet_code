@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ameenhyder-v/leet_code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ameenhyder-v/leet_code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ameenhyder-v/leet_code/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ameenhyder-v/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ameenhyder-v/leet_code/tree/master/0349-intersection-of-two-arrays) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ameenhyder-v/leet_code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/ameenhyder-v/leet_code/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/ameenhyder-v/leet_code/tree/master/0268-missing-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ameenhyder-v/leet_code/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ameenhyder-v/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ameenhyder-v/leet_code/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/ameenhyder-v/leet_code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ameenhyder-v/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ameenhyder-v/leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
