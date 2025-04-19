@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ameenhyder-v/leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ameenhyder-v/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ameenhyder-v/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/ameenhyder-v/leet_code/tree/master/0383-ransom-note) |
 | [1970-sorting-the-sentence](https://github.com/ameenhyder-v/leet_code/tree/master/1970-sorting-the-sentence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ameenhyder-v/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ameenhyder-v/leet_code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ameenhyder-v/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/ameenhyder-v/leet_code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ameenhyder-v/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ameenhyder-v/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ameenhyder-v/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ameenhyder-v/leet_code/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
