@@ -3,21 +3,12 @@
  * @return {number}
  */
 var sumOfUnique = function(nums) {
-    // let hashTable = {}
-    // for(let num of nums){
-    //     hashTable[num] = (hashTable[num] || 0) + 1
-    // }
-    // console.log(hashTable)
-    // let a = Array.from(hashTable)
-    // console.log(a)
+    let sum = 0;
 
-    let a = 0
-    let b = nums.sort((a,b) => a - b)
-    for(let i = 0; i < b.length; i++){
-        if(b.indexOf(b[i]) == b.lastIndexOf(b[i])){
-            a += b[i]
+    for(let i = 0; i < nums.length; i++) {
+        if (nums.indexOf(nums[i]) === nums.lastIndexOf(nums[i])) {
+            sum += nums[i]
         }
-
     }
-    return a
+    return sum
 };
